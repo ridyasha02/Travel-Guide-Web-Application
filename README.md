@@ -19,12 +19,11 @@ This project allows users to search for places, view their profile, and check th
 
 ## 💻 Tech Stack Used  
 
-| Technology        | Purpose                              |
+| Technology        | Purpose                             |
 |------------------|--------------------------------------|
-| Java (JSP & Servlets) | Backend Development               |
+| Java (JSP & Servlets) | Backend Development             |
 | MySQL            | Database Management                  |
 | HTML, CSS        | Frontend Design                      |
-| JavaScript       | Client-Side Interactivity            |
 | Travel Guide API | Fetch Travel Recommendations         |
 | Apache Tomcat    | Server Deployment                    |
 
